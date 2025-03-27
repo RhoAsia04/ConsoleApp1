@@ -9,7 +9,9 @@ namespace ConsoleApp1
     class Program
     {
         static void Main(string[] args)
-        { }
+        {
+            Console.WriteLine("Ryan O'Donnell");
+        }
             public string MyNewProperty { get; set; }
 
         // New method
